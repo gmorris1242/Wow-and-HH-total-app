@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+#total {
+  color: green;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td,
+th {
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+}
